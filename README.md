@@ -1,2 +1,2 @@
-# brittneyhxh.github.io
+# My Portfolio
 Personal website portfolio
